@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+## setup cross compile environment
+
+export ARCH=arm 
+export CROSS_COMPILE=arm-linux-gnueabihf-
